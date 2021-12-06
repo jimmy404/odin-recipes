@@ -1,0 +1,36 @@
+
+body{
+  background-image: url('../images/background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1,
+h2,
+h3,
+p {
+  font-family: "Courier New", Courier, monospace;
+  text-decoration: underline;
+}
+
+p {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+ul li, ol li {
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
+
+img {
+  border-radius: 15%;
+}
+
+.container {
+  background-color: black;
+  border-radius: 20px;
+  width: 600px;
+}
